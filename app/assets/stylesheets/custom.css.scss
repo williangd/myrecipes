@@ -30,3 +30,9 @@ $primary-color: #333;
   bottom: 0;
   width: 100%;
 }
+
+.jumbotron {
+  background-image: asset-url('bg2.png');
+  background-size: cover;
+  height: 300px;
+}
